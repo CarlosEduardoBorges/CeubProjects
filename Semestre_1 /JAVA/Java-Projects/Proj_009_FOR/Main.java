@@ -9,8 +9,6 @@ public class Main {
         int N = sc.nextInt();
         int _R = sc.nextInt();
 
-        // O laço for corrigido
-        // Itera enquanto N for menor que _R, incrementando N a cada passo
         for (; N <= _R; N++) {
             System.out.println(N);
         }
